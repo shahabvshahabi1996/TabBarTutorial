@@ -1,4 +1,4 @@
-React-Native Tab bar Header Android
+React-Native Tab bar for Android and IOS
 ==============================================
 #### This Repo is For my Tutorial for Making a Custom Tab bar Header for Android Within React-Native and `ViewPagerAndroid` Component On Youtube
 
